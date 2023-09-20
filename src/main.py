@@ -1,4 +1,5 @@
 from person import Autor
+from book import LibroImpreso, LibroDigital, Audiolibro
 
 def main() -> None:
     Nombre = input("Digite el nombre: ")
